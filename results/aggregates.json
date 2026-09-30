@@ -1,0 +1,39 @@
+{
+  "si_mean": {
+    "gof2": 0.9151164116273838,
+    "gap23": 18.527011646059893,
+    "negative_mass": 0.03462948334896336,
+    "mds_stress2": 0.04515731569216687,
+    "coordinate_nrmse": 0.035384416573343715
+  },
+  "si_sample_sd": {
+    "gof2": 0.0005148235333747547,
+    "gap23": 0.46802146408096196,
+    "negative_mass": 0.0011548369355537662,
+    "mds_stress2": 0.0006043159383809064,
+    "coordinate_nrmse": 0.0008558483221280597
+  },
+  "delaunay_means": {
+    "hop": {
+      "gof2": 0.46647400675904593,
+      "gap34": 5.425402698284034,
+      "radial_correlation": 0.9202408200547774,
+      "pair_distance_nrmse": 0.29450915832338986,
+      "coordinate_nrmse": 0.41363860723327656
+    },
+    "shared_field_SI": {
+      "gof2": 0.6350515747290604,
+      "gap34": 6.722577125070799,
+      "radial_correlation": 0.9497198379026062,
+      "pair_distance_nrmse": 0.24807751504320752,
+      "coordinate_nrmse": 0.33514420066178574
+    },
+    "Euclidean_edge_oracle": {
+      "gof2": 0.8952546240939985,
+      "gap34": 1.1822740745838625,
+      "radial_correlation": 0.26701915169611756,
+      "pair_distance_nrmse": 0.016492592693163877,
+      "coordinate_nrmse": 0.017689427857113076
+    }
+  }
+}

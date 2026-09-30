@@ -1,0 +1,42 @@
+[
+  {
+    "check": "complete_graph",
+    "n": 8,
+    "gof2": 0.2857142857142859,
+    "rank": 7
+  },
+  {
+    "check": "complete_graph",
+    "n": 16,
+    "gof2": 0.1333333333333335,
+    "rank": 15
+  },
+  {
+    "check": "complete_graph",
+    "n": 64,
+    "gof2": 0.031746031746031814,
+    "rank": 63
+  },
+  {
+    "check": "rescaled_path",
+    "n": 51,
+    "positive_rank": 1
+  },
+  {
+    "check": "geometric_triangle",
+    "analytic_mean": 1.7777777777777777,
+    "mc_mean": 1.77789,
+    "mc_standard_error": 0.0022306525095928975,
+    "trials": 200000
+  },
+  {
+    "check": "intact_backbone_exact_recovery",
+    "maximum_error": 0.0
+  },
+  {
+    "check": "star_mean_SI_p_half",
+    "gof2": 0.28571428571428586,
+    "positive_rank": 7,
+    "negative_mass": 0.04761904761904764
+  }
+]

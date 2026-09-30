@@ -1,0 +1,8 @@
+{
+  "python": "3.13.5 (main, Jul 15 2026, 20:25:40) [GCC 14.2.0]",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "networkx": "3.6.1",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "design_sha256": "9e3d67c00b70e86bb3017453fcdaaa4b3e8e4d419e8d605f004f11e6b4520d5b"
+}

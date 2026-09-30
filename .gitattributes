@@ -1,0 +1,5 @@
+# Preserve LF line endings for scripts, sources, and checksum verification.
+* text=auto eol=lf
+*.pdf binary
+*.png binary
+*.npz binary

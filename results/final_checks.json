@@ -1,0 +1,12 @@
+{
+  "checks_passed": [
+    "All configured result groups and seeds are present.",
+    "Independent-row counterexample is symmetric and violates a triangle inequality.",
+    "All five square-grid SI mean matrices satisfy every triangle inequality.",
+    "Weak-shortcut stored means are pointwise monotone and bounded by the coupled intact mean.",
+    "The explicit Gram perturbation bound holds on a nontrivial metric mixture.",
+    "All eight data tables are present."
+  ],
+  "gram_observed_error": 0.5481762898973876,
+  "gram_bound": 5.541245342825937
+}

@@ -1,0 +1,27 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# LaTeX build cache and auxiliary files; retain manuscript.pdf
+.build/
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Local editor / operating-system files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*~

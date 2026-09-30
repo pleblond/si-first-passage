@@ -1,0 +1,7 @@
+{
+  "status": "Secondary diagnostic batch specified after the initial benchmark batch, before executing these tests. Not confirmatory preregistration.",
+  "date": "2026-09-30",
+  "delaunay_SI": {"n": 625, "box_side": 40, "graph_seeds": [0, 1, 2, 3, 4], "field_seed_offset": 1000, "trials": 128, "probability": 0.5},
+  "dimension_controls": {"side_by_dimension": {"1": 100, "2": 10, "3": 6}, "trials": 256, "probability": 0.5, "field_seed": 31415},
+  "rule": "Transfer the same probability without calibration. Report every result, including failure to remove radial bias. No rate selection from these outcomes."
+}

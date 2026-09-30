@@ -1,0 +1,14 @@
+{
+  "status": "Frozen before this draft's numerical execution; not an externally registered protocol",
+  "draft_date": "2026-09-30",
+  "reference_branch": "cursor/d1-dynamics-u-2031",
+  "spectral_relative_tolerance": 1e-10,
+  "damage": {"side": 20, "attempted_swaps": [0, 1, 10], "seed": 0, "long_detour_radius": 3, "long_costs": [1, 2, 5, 20]},
+  "shell_radii": [5, 8, 11, 14],
+  "si": {"side": 10, "probability": 0.5, "trials_per_replication": 256, "seeds": [0, 1, 2, 3, 4]},
+  "weak_shortcuts": {"side": 10, "number": 8, "minimum_reference_span": 8, "graph_seed": 17, "trials": 512, "field_seed": 2026, "base_probability": 0.5, "cost_factors": [1, 4, 20, 100]},
+  "delaunay": {"n": 625, "box_side": 40, "seeds": [0, 1, 2, 3, 4]},
+  "rg": {"side": 40, "swaps": 20, "seed": 0, "long_costs": [1, 3, 10], "rules": ["min", "mean"], "levels": 4},
+  "disk": {"side": 20, "radius": 3, "edges_per_class": 15, "seed": 0},
+  "rule": "No selection or parameter tuning using MDS outcomes. Coordinates used only for evaluation and explicitly labeled oracle controls."
+}

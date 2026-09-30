@@ -1,0 +1,9 @@
+{
+  "pages": 24,
+  "out_of_page_text_blocks": [],
+  "unresolved_reference_marker_found": false,
+  "figures": 6,
+  "data_tables": 8,
+  "renderer": "PyMuPDF",
+  "visual_review": "Rendered all pages; first page, figure/table pages, and appendices inspected."
+}
